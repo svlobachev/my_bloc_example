@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:my_bloc_example/color_bloc.dart.txt';
+import 'package:my_bloc_example/color_bloc.dart';
 
 void main() {
   runApp(const MyApp());
